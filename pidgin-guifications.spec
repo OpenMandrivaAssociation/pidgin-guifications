@@ -1,7 +1,6 @@
-%define version 2.13
-%define pre beta7
-%define release %mkrel 0.%pre.1
-%define fname %name-%version%pre
+%define version 2.14
+%define release %mkrel 1
+%define fname %name-%version
 %define pidgin_version 2.0.0
 
 Summary:	MSN Style Popup for Pidgin
