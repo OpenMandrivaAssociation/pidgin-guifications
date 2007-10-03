@@ -1,7 +1,7 @@
 %define version 2.14
-%define release %mkrel 1
+%define release %mkrel 2
 %define fname %name-%version
-%define pidgin_version 2.0.0
+%define pidgin_version 2.2.1
 
 Summary:	MSN Style Popup for Pidgin
 Name:		pidgin-guifications
