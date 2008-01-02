@@ -11,6 +11,7 @@ License:	GPL
 Group:		Networking/Instant messaging
 URL:		http://plugins.guifications.org/trac/wiki/Guifications
 Source:		http://downloads.guifications.org/plugins//Guifications2/%{fname}.tar.bz2
+Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	pidgin-devel >= %{gaim_version}
 BuildRequires:	gtk+2-devel
 BuildRequires:	perl-XML-Parser
