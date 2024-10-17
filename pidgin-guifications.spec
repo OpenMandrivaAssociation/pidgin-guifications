@@ -9,7 +9,7 @@ Version:	%{version}
 Release:	%{release}
 License:	GPL
 Group:		Networking/Instant messaging
-URL:		http://plugins.guifications.org/trac/wiki/Guifications
+URL:		https://plugins.guifications.org/trac/wiki/Guifications
 Source:		http://downloads.guifications.org/plugins//Guifications2/%{fname}.tar.bz2
 Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	pidgin-devel >= %{pidgin_version}
